@@ -1,0 +1,23 @@
+{
+  "name": "05-blockchain-on-web",
+  "version": "1.0.0",
+  "description": "Interactuando con la Blockchain desde una aplicación web",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeepCodingBlockchain-I/05-blockchain-on-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeepCodingBlockchain-I/05-blockchain-on-web/issues"
+  },
+  "homepage": "https://github.com/KeepCodingBlockchain-I/05-blockchain-on-web#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
