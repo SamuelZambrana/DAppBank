@@ -20,7 +20,7 @@ DappBankWeb3 es una plataforma financiera basada en la tecnología blockchain. S
 
 ## Instalación y Uso
 
-1. Clona este repositorio: `git clone https://github.com/SamuelZambrana/DappBankWeb3.git`
+1. Clona este repositorio: `git clone https://github.com/SamuelZambrana/DappBank.git`
 2. Instala las dependencias: `npm install`
 3. Configura tu entorno de desarrollo (por ejemplo, MetaMask) para conectarte a la red Ethereum.
 4. Ejecuta la aplicación: `npm start`
